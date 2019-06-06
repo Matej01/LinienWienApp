@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="at.wifiwien.linienwienapp" version="0.1.2" xmlns="http://www.w3.org/ns/widget" xmlns:gap="http://phonegap.com/ns/1.0">
+  <name>LinienWienApp</name>
+  <description>Die coolste App der Welt!</description>
+  <author email="vincenza@wifi-it.at" href="http://www.wifiwien.at">
+    JS SW Developer Team 518
+  </author>
+  <content src="index.html" />
+  <preferences name="android-minSdkVersion" value="26" />
+  <preference name="Orientation" value="portrait" />
+
+  
+  
+
+  <platform name="android">
+    <icon density="ldpi" src="www/icon.png" />
+  </platform>
+
+</widget>
